@@ -8,6 +8,8 @@ The goals of the project are to:
 - Design for multiple watch form factors.
 - Communicate between a mobile device and a wearable device.
 
+**Project is presently under development**
+
 ## Background
 
 Sunshine is an Android app used in the Udacity Advanced Android course. The app synchronizes weather information from OpenWeatherMap on Android Phones and Tablets.
@@ -17,10 +19,10 @@ Sunshine is an Android app used in the Udacity Advanced Android course. The app 
 ## Project Rubric
 
 - App conforms to common standards found in the Android Nanodegree General Project Guidelines
-- App works on both round and square face watches.
-- App displays the current time.
-- App displays the high and low temperatures.
-- App displays a graphic that summarizes the day’s weather (e.g., a sunny image, rainy image, cloudy image, etc.)
+- App works on both round and square face watches **implemented**
+- App displays the current time **under development**
+- App displays the high and low temperatures **under development**
+- App displays a graphic that summarizes the day’s weather (e.g., a sunny image, rainy image, cloudy image, etc.) **under development**
 
 ## License
 
